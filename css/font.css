@@ -1,0 +1,14 @@
+@font-face{
+	font-family:"RobotoCondensed";
+	src:url("../fonts/RobotoCondensed.eot") format("eot"),
+	url("../fonts/RobotoCondensed.woff") format("woff"),
+	url("../fonts/RobotoCondensed.ttf") format("truetype"),
+	url("../fonts/RobotoCondensed.svg#RobotoCondensed") format("svg");
+}
+@font-face{
+	font-family:"Dosis";
+	src:url("../fonts/Dosis.eot") format("eot"),
+	url("../fonts/Dosis.woff") format("woff"),
+	url("../fonts/Dosis.ttf") format("truetype"),
+	url("../fonts/Dosis.svg#Dosis") format("svg");
+}
